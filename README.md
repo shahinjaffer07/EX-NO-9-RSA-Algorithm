@@ -140,8 +140,8 @@ int main() {
 
 
 ## Output:
-<img width="821" height="505" alt="image" src="https://github.com/user-attachments/assets/32a48b90-0862-461d-988c-a1117b37f481" />
 
+<img width="1689" height="780" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/fbaa2f66-9082-4327-a4f7-c08121bae817" />
 
 
 ## Result:
